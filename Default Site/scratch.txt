@@ -1,0 +1,27 @@
+<div>
+                                    <ul>
+                                    <li class="timeline-event" data-aos="fade-up" data-aos-delay=".4">
+                                        <p class="timeline-event-thumbnail">Arduino Transmitter</p>
+                                        <h3>Python</h3>
+                                        <h5>My Python projects</h5>
+                                        <p><strong>
+<pre>I now officially consider myself a python programmer. Being a electronics and 
+telecommunication hardware guy I started to explore python as my second computer language 
+(first being C). 
+I am now a fan and am charmed by this language. I am self taught (with help of online courses). 
+I learnt quickly that the best way to master any language is to start developing a application. 
+That is what I did. I have used python for developing:
+</pre>
+                                        </strong>
+                                        <ul>
+                                            <li> A full fledged multithreaded chat application that includes both server and client. </li>
+                                            <li> A smart parking app that includes License plate image recognition using tensorflow and CV2<
+                                            <li> Several Data structures code samples that can be useful to others who are learning Data structures in python.</li>
+                                            <li> 101 Python automation scripts that is useful for both developers, devops and automation enthusiasts </li>
+                                        </ul>
+                                            <br>Click to <a href="https://www.instagram.com/themusicgurukul/?hl=en"
+                                                target="_blank">find project details here.</a> 
+                                        </p>
+                                    </li>
+                                    </ul>
+                                </div>
